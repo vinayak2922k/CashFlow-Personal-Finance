@@ -2,6 +2,12 @@
 
 A simple salary and expense tracker built for Prodesk IT Sprint 02.
 
+## 📸 Project Preview
+
+![CashFlow](Screenshot/SS1.png)
+![CashFlow-Dashboard](Screenshot/SS2.png)
+![CashFlow-Footer](Screenshot/SS3.png)
+
 ## Features
 
 - Set monthly salary
